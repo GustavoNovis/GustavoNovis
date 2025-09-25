@@ -1,4 +1,11 @@
 ## Hi there 👋
+### Me chamo Gustavo, tenho 20 anos, atualmente estou no 6° semestre de Ciência da Computação na UAM. 
+
+
+
+
+
+
 
 <!--
 **gustavonovismoreira/gustavonovismoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
