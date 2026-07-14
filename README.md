@@ -1,8 +1,20 @@
-## Hi there 👋
-### Me chamo Gustavo, tenho 21 anos e curso Ciência da Computação na Anhembi Morumbi, atualmente no 7º semestre. Tenho conhecimento em ferramentas voltadas para Engenharia de Dados, Análise de Dados, como: 
+<div align="center">
+  <h2>Hi there 👋, I'm Gustavo</h2>
+  <p>Data Analyst | Data Engineering & ETL | Turning Data into Decisions</p>
+</div>
 
+---
 
-### 🛠️ Stack
+<h2>🚀 About Me</h2>
+
+- 📊 Data Analyst focused on ETL, automation, and turning raw data into strategic decisions.
+- ☁️ Hands-on experience with cloud database administration and REST API integration.
+- 📈 I build dashboards designed to make indicators easier to read and support fast decision-making.
+- 🎯 Lifelong learner, always looking to apply efficient and scalable solutions to complex data problems.
+
+---
+
+<h2> 🛠️ Tech Stack </h2>
 
 
 <div align="center">
@@ -17,6 +29,7 @@
 
 </div>
 
+---
 
 </div>
 
